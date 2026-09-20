@@ -1,6 +1,6 @@
 # Pingfind
 
-VB6 working copy of `Pingfind` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: Project1. Output: `Rolling Ping.exe`. `VersionCompanyName`: CSC.
+CSC VB6 Rolling Ping (`Rolling Ping.exe` / `Pingfind.vbp`): sweeps an IP range until it finds N hosts per subnet, lists them, can extract IPs, and copies SMS/Compaq MIF files from live PCs. Open `Pingfind.vbp` in the VB6 IDE (sibling of `Ping`, not the same project).
 
 **Source last updated:** 2026-08-27 · **Language:** VB6 · **Target:** VB6 Win32 · **Output:** WinForms exe
 
